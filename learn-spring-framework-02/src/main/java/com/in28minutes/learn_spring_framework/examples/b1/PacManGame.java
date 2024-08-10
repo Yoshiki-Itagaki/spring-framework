@@ -1,4 +1,4 @@
-package com.in28minutes.learn_spring_framework.game;
+package com.in28minutes.learn_spring_framework.examples.b1;
 
 import org.springframework.stereotype.Component;
 
