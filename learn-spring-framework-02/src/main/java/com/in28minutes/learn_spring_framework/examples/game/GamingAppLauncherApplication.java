@@ -1,4 +1,4 @@
-package com.in28minutes.learn_spring_framework.examples.b1;
+package com.in28minutes.learn_spring_framework.examples.game;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;

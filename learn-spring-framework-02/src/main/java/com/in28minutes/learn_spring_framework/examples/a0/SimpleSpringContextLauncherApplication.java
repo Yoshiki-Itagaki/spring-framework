@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("com.in28minutes.learn_spring_framework.examples.a1")
+@ComponentScan
 public class SimpleSpringContextLauncherApplication {
 	
 	public static void main(String[] args) {
